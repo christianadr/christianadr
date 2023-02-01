@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Del Rosario
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning different algorithms used in Machine Learning, exploratory data analysis, and many more.
-- 💞️ I’m looking to collaborate on data science programs, and competitions such as ADSE.
+- 👀 I’m interested in Machine Learning, Data Science, and Deep Learning
+- 🌱 I’m currently learning different algorithms used in Machine Learning and Deep Learning.
+- 💞️ My field of interests are neural networks, computer vision, reinforcement learning, and more concepts about AI.
 - 📫 How to reach me: Contact me thru my number: +639996990291 or send me an email thru: ainsley.drosario@gmail.com
 
 <!---
