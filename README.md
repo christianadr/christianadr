@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Ainsley Del Rosario</h1>
+<h1 align="center">Hi 👋, I'm Christian Del Rosario</h1>
 <h3 align="center">A BS Computer Engineering student at Technological Institute of the Philippines specializing in Data Science.</h3>
 <img align="right" alt="Mizuhara Chizuru" width="400" src="https://media.tenor.com/OJ7dWLRs3JAAAAAC/mizuhara-chizuru.gif"/>
 
