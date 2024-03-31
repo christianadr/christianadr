@@ -1,11 +1,8 @@
 <h1>Hi 👋, I'm Christian Del Rosario</h1>
 <h3 align="left">An aspiring AI Engineer. Currently a BS Computer Engineer specializing in Data Science.</h3>
 
-<img align="right" alt="Mizuhara Chizuru" width="400" src="https://media.tenor.com/OJ7dWLRs3JAAAAAC/mizuhara-chizuru.gif"/>
-
 - 🌱 I’m currently learning **Deep Learning, Full Stack Development**
 - 📫 How to reach me **ainsley.drosario@gmail.com**
-- ⚡ Fun fact **Mizuhara Chizuru is still the Best Waifu**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christianadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianadr" height="30" width="40" /></a>
