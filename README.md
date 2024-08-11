@@ -1,15 +1,29 @@
-<h1>Hi 👋, I'm Christian Del Rosario</h1>
-<h3 align="left">An aspiring AI Engineer. Currently a BS Computer Engineer specializing in Data Science.</h3>
+# Hi, I'm Ains! 👋
 
-- 🌱 I’m currently learning **Deep Learning, Full Stack Development**
-- 📫 How to reach me **ainsley.drosario@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/christianadr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianadr" height="30" width="40" /></a>
-<a href="https://fb.com/ainsleydr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ainsleydr" height="30" width="40" /></a>
-</p>
-<br>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianadr&show_icons=true&locale=en&layout=compact" alt="christianadr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianadr&show_icons=true&locale=en" alt="christianadr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christianadr&" alt="christianadr" /></p>
+## 👦 About Me
+
+- Currently a **Computer Engineering** student at Technological Institute of the Philippines - Quezon City.
+- Pursuing a **career in AI Engineering**. 
+- Currently accomplishing **Data Scientist Associate in DataCamp**.
+- Focuses on projects related but not limited to the following:
+    - Applications that uses **Computer Vision/Natural Language Processing**
+    - Developing **web/mobile applications**
+    - Data-related tasks such as **ETL/Analytics/Modelling**
+
+## 🖥 Tech Stack
+
+**Programming Languages** 
+
+[![Programming Languages](https://skillicons.dev/icons?i=python,javascript,c,cpp,dart)](https://skillicons.dev)
+
+**AI/ML Libraries**
+[![AI/ML Libraries](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
+
+**Other Tools/Frameworks**
+[![Others](https://skillicons.dev/icons?i=anaconda,arduino,django,flask,flutter,git,html,css,latex,materialui,tailwind,qt,react,selenium&perline=7)](https://skillicons.dev)
+
+## 🌟 GitHub Stats
+
+<img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=christianadr&show_icons=true&count_private=true&theme=calm" />&nbsp;&nbsp;
+<img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianadr&layout=compact&theme=calm" />&nbsp;&nbsp;
+<img alt="GitHub Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=christianadr&theme=calm&layout=compact&card_width=805" />&nbsp;&nbsp;
