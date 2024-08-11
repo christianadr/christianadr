@@ -17,9 +17,11 @@
 [![Programming Languages](https://skillicons.dev/icons?i=python,javascript,c,cpp,dart)](https://skillicons.dev)
 
 **AI/ML Libraries**
+
 [![AI/ML Libraries](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
 
 **Other Tools/Frameworks**
+
 [![Others](https://skillicons.dev/icons?i=anaconda,arduino,django,flask,flutter,git,html,css,latex,materialui,tailwind,qt,react,selenium&perline=7)](https://skillicons.dev)
 
 ## 🌟 GitHub Stats
