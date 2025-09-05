@@ -2,7 +2,7 @@
 
 ## 👦 About Me
 
-- Currently a **Computer Engineering** student at Technological Institute of the Philippines - Quezon City.
+- **Computer Engineering** graduate from Technological Institute of the Philippines - Quezon City.
 - Pursuing a **career in AI Engineering**. 
 - Currently accomplishing **Data Scientist Associate in DataCamp**.
 - Focuses on projects related but not limited to the following:
